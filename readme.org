@@ -1,0 +1,9 @@
+* overview
+
+
+a collection of submission codes of [[https://algo-method.com][algo-method]].
+
+** langs
++ Haskell: ~/haskell~
++ Python: ~/python~
++ Rust: ~/rust~
